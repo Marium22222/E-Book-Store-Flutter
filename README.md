@@ -44,7 +44,8 @@ Use the Flutter extension to select the Android emulator as the target device (o
 Now, you can run your Flutter app, and it will launch on the Android emulator you've set up.
 
 OR 
-Setup a physical device:
+
+2.Setup a physical device:
 Enable Developer Mode on Your Device:
 For Android, you need to enable Developer Options and USB Debugging. Here's how:
 Go to your device's "Settings."
