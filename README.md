@@ -21,16 +21,13 @@ Click "OK" on all open windows to save your changes.
 Open the folder extracted from zip in android studio IDE  clicking file->open->location of the folder in the IDE after opening it.
 OR
 Open the folder extracted from zip in visual studio code IDE  clicking file->open folder->location of the folder in the IDE after opening it.
-Go to pubspec.yaml file after opening the folder and cick pub get on the top in android studio.
+Go to pubspec.yaml file after opening the folder in one of the IDEs and run flutter pub get in the terminal.
 This application uses flutter sdk version (sdk: '>=3.0.5 <4.0.0)' so make sure to upgrade the version of flutter sdk before running pub get in pubspec.yaml.
 Download Emulator:
 1. Android Emulator:
 To set up an Android emulator for Flutter development, you'll need to use the Android Virtual Device (AVD) Manager, which is part of Android Studio:
 Download and Install Android Studio:
-Download Android Studio from the official website: Android Studio Download.
-Follow the installation instructions for your operating system.
-Launch Android Studio:
-Open Android Studio and complete the initial setup.
+Download Android Studio from the official website
 Open AVD Manager:
 Click on "Configure" in the Android Studio welcome screen.
 Select "AVD Manager" from the dropdown menu.
